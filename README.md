@@ -2,7 +2,6 @@
 
 # requires
 - pip install Flask
-- pip install apscheduler
 - pip install Flask-APScheduler
 
 ## database (sqlite3)
